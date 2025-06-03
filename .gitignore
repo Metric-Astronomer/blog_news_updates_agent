@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+google-cloud-sdk/
+google-cloud-sdk-*.tar.gz
